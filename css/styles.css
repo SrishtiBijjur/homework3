@@ -107,7 +107,7 @@ header{
   height: 400px;                /* Parallax effect */
   /* Your code here */
   /* Set background-image to header.jpg in the images folder */
-  background: url("/Volumes/Srishti/SI 539/HW3 3/images/header.jpg")  #707070;
+  background: url("images/header.jpg")  #707070;
   /* Span one row */
   grid-column: 1 / span all;
   grid-row: 2 / span 1;
